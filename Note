@@ -1,0 +1,30 @@
+$?
+top
+ps -aux / -lf
+pgrep
+tmux
+pmap
+locate
+updatedb
+kill
+kill -9
+UID: user the process is running as.
+
+PID: process ID.
+
+PPID: parent process ID.
+
+PRI: scheduling priority.
+
+SZ: size of the core image of the process (kB).
+
+WCHAN: if the process is not running, description of what it is waiting on.
+
+RSS: total amount of resident memory is use by the process (kB).
+
+TIME: measure of the amount of time that the process has spent running.
+
+sleep &
+wait
+vagrant
+pstree
