@@ -28,3 +28,4 @@ sleep &
 wait
 vagrant
 pstree
+find /(dir) -iname "name"
