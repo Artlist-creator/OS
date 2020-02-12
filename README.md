@@ -1,2 +1,1 @@
-# OS
-Hack the kernel
+# OS Courses
